@@ -1,0 +1,1 @@
+addSbtPlugin("com.github.Nirvikalpa108" % "motivation-plugin" % "0.1.0-SNAPSHOT")
